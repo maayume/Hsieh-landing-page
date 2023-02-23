@@ -333,7 +333,7 @@ export default {
 }
 
 .c-card {
-  img {    
+  img {
     transition: transform .3s ease-in-out; 
   }
   
