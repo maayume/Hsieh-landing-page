@@ -1,5 +1,5 @@
 <template>
-  <header class="flex items-center justify-between h-20 max-w-6xl mx-auto p-7 lg:px-0">
+  <header class="flex items-center justify-between h-20 mx-auto p-7 lg:px-10">
     <img src="/logo.png" class="w-30 h-10" />
 
     <div class="justify-self-end flex">
